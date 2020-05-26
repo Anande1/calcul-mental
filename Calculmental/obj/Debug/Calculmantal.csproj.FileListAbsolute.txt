@@ -1,0 +1,13 @@
+C:\Users\Ghaano\source\repos\Calculmantal\bin\Debug\Calculmantal.exe.config
+C:\Users\Ghaano\source\repos\Calculmantal\bin\Debug\Calculmantal.exe
+C:\Users\Ghaano\source\repos\Calculmantal\bin\Debug\Calculmantal.pdb
+C:\Users\Ghaano\source\repos\Calculmantal\obj\Debug\Calculmantal.csprojAssemblyReference.cache
+C:\Users\Ghaano\source\repos\Calculmantal\obj\Debug\Calculmantal.csproj.CoreCompileInputs.cache
+C:\Users\Ghaano\source\repos\Calculmantal\obj\Debug\Calculmantal.exe
+C:\Users\Ghaano\source\repos\Calculmantal\obj\Debug\Calculmantal.pdb
+C:\Users\Admin\Desktop\Calculmantal\bin\Debug\Calculmantal.exe.config
+C:\Users\Admin\Desktop\Calculmantal\bin\Debug\Calculmantal.exe
+C:\Users\Admin\Desktop\Calculmantal\bin\Debug\Calculmantal.pdb
+C:\Users\Admin\Desktop\Calculmantal\obj\Debug\Calculmantal.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Calculmantal\obj\Debug\Calculmantal.exe
+C:\Users\Admin\Desktop\Calculmantal\obj\Debug\Calculmantal.pdb

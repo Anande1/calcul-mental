@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Calculmental\bin\Debug\Calculmantal.exe.config
+C:\Users\Admin\Desktop\Calculmental\bin\Debug\Calculmantal.exe
+C:\Users\Admin\Desktop\Calculmental\bin\Debug\Calculmantal.pdb
+C:\Users\Admin\Desktop\Calculmental\obj\Debug\Calculmental.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Calculmental\obj\Debug\Calculmantal.exe
+C:\Users\Admin\Desktop\Calculmental\obj\Debug\Calculmantal.pdb
